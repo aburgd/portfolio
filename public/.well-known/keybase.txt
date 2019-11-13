@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aeburgd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aburgd.me
+  * I am aeburgd (https://keybase.io/aeburgd) on keybase.
+  * I have a public key ASCC3wrkwnrLTovfFXvxPfyikGfMBkclJ37wybHEGneYqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dd68c9075211ace2b7d4c490ecf03f95e44cb5c9e9543c2d6d7b281d1c49af4e0a",
+      "host": "keybase.io",
+      "kid": "012082df0ae4c27acb4e8bdf157bf13dfca29067cc064725277ef0c9b1c41a7798aa0a",
+      "uid": "06c5c9a85e3fb50d87d077fe38d7f819",
+      "username": "aeburgd"
+    },
+    "merkle_root": {
+      "ctime": 1573688925,
+      "hash": "aa5fc8b9ef0b1cfe1c259bb0a6d366e8d9404ff0c07d49918c9e873851f58802c5f08fe8de852f4aa740db5812f92f4faca30b79d50827c87683dd93755d0463",
+      "hash_meta": "576ca7ff4d22a62cd27a6ef996f2f0685280ed8c6474912b9cd41e28ea7fcb6a",
+      "seqno": 9430669
+    },
+    "service": {
+      "entropy": "eiypV/3cbN8dgCEcXoHMany8",
+      "hostname": "aburgd.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573688930,
+  "expire_in": 504576000,
+  "prev": "da66d0b0c519bd85085bd1e4a232614fd32eff912427716f99d22b9d90646d33",
+  "seqno": 113,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggt8K5MJ6y06L3xV78T38opBnzAZHJSd+8MmxxBp3mKoKp3BheWxvYWTESpcCccQg2mbQsMUZvYUIW9HkojJhT9Mu/5EkJ3FvmdIrnZBkbTPEIGk4ckF9ihFP6LEKb9WtzsrIfi/8Lwg/QnEn+tg77v7pAgHCo3NpZ8RA1i458pW54P/r7jw2bla116FkK0WWEGepZNKODltvrfPQp3vbNnA1Tgv/YtAkPwKwkTBnvzUQ9uzDsP0WVfuKB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA9GRChEncVX/uNEi2XNB+MiaUhC1cmgIy0cgE0w4TvJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aeburgd
+
+==================================================================
