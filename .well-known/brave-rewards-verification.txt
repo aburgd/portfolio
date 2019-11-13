@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aburgd.me
+Token: 58482c8d164ebd009618925935ab93f36e22a0b3162885fade9d6f1577574ccb
