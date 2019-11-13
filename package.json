@@ -12,5 +12,13 @@
     "now": "^16.5.2",
     "react": "16.11.0",
     "react-dom": "16.11.0"
+  },
+  "now": {
+    "routes": [
+      {
+        "src": "public/.well-known/brave-rewards-verification.txt",
+        "dest": "/.well-known/brave-rewards-verification.txt"
+      }
+    ]
   }
 }
