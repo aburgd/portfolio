@@ -32,12 +32,6 @@ const Home = () => (
             in the <i>Fallout</i> franchise, <i>Fallout: New Vegas</i></p>
           </a>
         </Link>
-        <Link href='https://github.com/aburgd/chksm-csharp'>
-          <a className='card'>
-            <h3>chksm-csharp</h3>
-            <p><code>C#</code> A GUI utility, in Visual C#, for calculating file checksums.</p>
-          </a>
-        </Link>
         <Link href='https://github.com/aburgd/DHKE'>
           <a className="card">
             <h3>DHKE-py</h3>
