@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Footer = () => (
   <footer>
-    <p>Built with <Link href='https://nextjs.org'>Next.js</Link>, deployed on <Link href='https://zeit.co'>Now</Link>.</p>
+    <p>Built with <a href='https://nextjs.org'>Next.js</a>, deployed on <a href='https://zeit.co'>Now</a>.</p>
 
     <style jsx>{`
       :global(body) {
