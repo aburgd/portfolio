@@ -32,7 +32,7 @@ const Home = () => (
             in the <i>Fallout</i> franchise, <i>Fallout: New Vegas</i></p>
           </a>
         </Link>
-        <Link href='https://github.com/aburgd/DHKE'>
+        <Link href='https://github.com/aburgd/DHKE-py'>
           <a className="card">
             <h3>DHKE-py</h3>
             <p><code>Python</code> An oversimplified command-line demonstration of the DHKE algorithm.</p>
