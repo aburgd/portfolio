@@ -84,7 +84,7 @@ const Home = () => (
       .card p {
         margin: 0;
         padding: 12px 0 0;
-        font-size: 13px;
+        font-size: 14px;
         color: #333;
       }
     `}</style>

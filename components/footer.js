@@ -16,7 +16,10 @@ const Footer = () => (
       a {
         color: #067df7;
         text-decoration: none;
-        font-size: 13px;
+        font-size: 15px;
+      }
+      p {
+        font-size: 15px;
       }
 
     `}</style>
